@@ -1,0 +1,13 @@
+16.01.26, 15:03
+Projektstatistiken
+
+                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
+Gesamt:              	       0	     0	                         0	                        0	      0	
+Verbleibend:         	       0	     0	                         0	                        0	      0	
+Einmalig:            	       0	     0	                         0	                        0	      0	
+Verbleibend einmalig:	       0	     0	                         0	                        0	      0	
+
+
+Statistik einzelner Dateien:
+
+Dateiname	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
